@@ -7,8 +7,8 @@
 ## Importación
 
 ```js
-import { CustomCursor } from './cursor.js';
+import { UXCursor } from './cursor.js';
 
 // Crear una instancia de CustomCursor y pasar el body como contenedor.
-const customCursor = new CustomCursor(document.body);
+const uxcursor = new UXCursor(document.body);
 ```
