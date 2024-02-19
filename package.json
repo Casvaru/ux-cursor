@@ -1,0 +1,36 @@
+{
+  "name": "ux-cursor",
+  "version": "1.0.0",
+  "description": "Custom cursor open Source",
+  "main": "app.js",
+  "type": "module",
+  "keywords": [
+    "custom cursor",
+    "cursor círculo",
+    "dot cursor",
+    "cursor dot",
+    "ux-cursor"
+  ],
+  "contributors": [
+    "casvaru"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Casvaru/ux-cursor/tree/main"
+  },
+  "bugs": {
+    "url": "https://github.com/Casvaru/ux-cursor/issues"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "homepage": "https://github.com/Casvaru/ux-cursor/blob/main/README.md",
+  "author": "casvaru",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
