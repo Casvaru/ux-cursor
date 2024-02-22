@@ -8,4 +8,5 @@
 
 ```js
 import UxCursor from './cursor.js';
+UxCursor
 ```
