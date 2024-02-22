@@ -1,6 +1,6 @@
 {
   "name": "ux-cursor",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Custom cursor open Source",
   "main": "app.js",
   "type": "module",
