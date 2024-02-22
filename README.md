@@ -7,5 +7,5 @@
 ## Importación
 
 ```js
-import uxCursor from './cursor.js';
+import UxCursor from './cursor.js';
 ```
